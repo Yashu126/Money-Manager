@@ -1,0 +1,21 @@
+li {
+  list-style-type: none;
+  margin: 0px;
+  padding-left: 0px;
+  border: 1px solid #7e858e;
+  border-top: none;
+  display: flex;
+  align-items: center;
+}
+
+.delete-btn {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  margin: auto;
+}
+
+.p {
+  width: 120px;
+  text-align: center;
+}
